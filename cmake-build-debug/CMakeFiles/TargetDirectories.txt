@@ -1,0 +1,3 @@
+C:/Users/f0ursecond/CLionProjects/TM13/cmake-build-debug/CMakeFiles/TM13.dir
+C:/Users/f0ursecond/CLionProjects/TM13/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/f0ursecond/CLionProjects/TM13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
